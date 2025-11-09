@@ -20,12 +20,10 @@ The project emphasizes not only urban development but also the region's cultural
 └── README.md # Project documentation
 
 
-## Screenshots
-*(Add screenshots here if available)*
 
 ## How to View
 1. Clone or download the repository.
-2. Open `index.html` in any web browser.
+2. Open `clarkglobalcity.netlify.app` in any web browser.
 3. Navigate through tabs to explore the introduction, history, timeline, cultural identity, and reflections.
 
 ## Credits
