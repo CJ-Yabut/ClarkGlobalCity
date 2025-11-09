@@ -16,7 +16,9 @@ The project emphasizes not only urban development but also the region's cultural
 
 ## Project Structure
 ├── index.html # Main web page
+
 ├── styles.css # Custom CSS styling
+
 └── README.md # Project documentation
 
 
